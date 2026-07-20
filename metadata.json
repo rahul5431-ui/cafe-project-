@@ -1,0 +1,6 @@
+{
+  "name": "Spice Route Café",
+  "description": "A family-friendly café serving Indian, Chinese, and Continental food with freshly brewed coffee, desserts, and quick snacks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
